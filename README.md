@@ -1,2 +1,0 @@
-# Loading-Screen-Script
-BASED
